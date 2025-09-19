@@ -13,7 +13,7 @@ const slides = [
   {
     id: 1,
     image:
-      "https://res.cloudinary.com/dohuz9aym/image/upload/v1757545444/1_zm24u6.jpg",
+      "/img/pp1.jpg",
     title: "Invierte en tu futuro con Lago & Alva",
     subtitle:
       "Proyectos inmobiliarios que combinan rentabilidad y seguridad para hacer crecer tu inversión.",
@@ -21,7 +21,7 @@ const slides = [
   {
     id: 2,
     image:
-      "https://res.cloudinary.com/dohuz9aym/image/upload/v1757545449/departamento_a3pzug.webp",
+      "/img/pp2.webp",
     title: "Construimos confianza en cada proyecto",
     subtitle:
       "Nuestro compromiso es ofrecer proyectos con calidad y alta rentabilidad.",
@@ -29,7 +29,7 @@ const slides = [
   {
     id: 3,
     image:
-      "https://res.cloudinary.com/dohuz9aym/image/upload/v1757545456/1729627789DEPARTAMENTO_EN_VENTA_PALMERAS_ch2run.png",
+      "/img/pp3.png",
     title: "Tu inversión, nuestra prioridad",
     subtitle:
       "Descubre cómo invertir en inmuebles de manera segura y estratégica.",

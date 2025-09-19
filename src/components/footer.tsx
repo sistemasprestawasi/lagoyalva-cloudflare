@@ -112,7 +112,7 @@ export function Footer() {
           <div className="flex items-center space-x-4">
             <Link href="/" className="flex items-center gap-1.5 sm:gap-2">
               <Image
-                src="https://res.cloudinary.com/dohuz9aym/image/upload/v1757026902/LOGO_WEB_50_50_sfxtfb.png"
+                src="/img/logo.png"
                 alt="Logo Lago y Alva"
                 width={45}
                 height={45}
@@ -166,7 +166,7 @@ export function Footer() {
           {/* Logo e información */}
           <div className="text-center space-y-4">
             <Image
-              src="https://res.cloudinary.com/dohuz9aym/image/upload/v1757026902/LOGO_WEB_50_50_sfxtfb.png"
+              src="/img/logo.png"
               alt="Logo Lago y Alva"
               width={45}
               height={45}
@@ -230,7 +230,7 @@ export function Footer() {
             {/* Bloque con logo MVCS */}
             <div className="flex items-center gap-2">
               <Image
-                src="https://res.cloudinary.com/dohuz9aym/image/upload/v1758300248/PCM-Vivienda_q2zezf.webp"
+                src="/img/minu.webp"
                 alt="Ministerio de Vivienda, Construcción y Saneamiento"
                 width={180}
                 height={140}

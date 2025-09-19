@@ -9,13 +9,13 @@ const projects = [
     title: "Terrenos en Carabayllo",
     category: "Parque Real",
     image:
-      "https://res.cloudinary.com/dohuz9aym/image/upload/v1757445560/PARQUE_REAL_BROCHURE_page-0001_huzqdg.jpg",
+      "/img/project01.jpg",
   },
   {
     title: "Ciudad de Dios",
     category: "Rodas Consolidate",
     image:
-      "https://res.cloudinary.com/dohuz9aym/image/upload/v1757446233/BROCHURE_CIUDAD_DE_DIOS_2025_page-0007_tb6dfj.jpg",
+      "/img/project02.jpg",
   },
 ];
 
