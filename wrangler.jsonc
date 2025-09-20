@@ -9,7 +9,7 @@
   "compatibility_flags": ["nodejs_compat", "global_fetch_strictly_public"],
   "account_id": "5c03eb7f5af85e1d24765efc912ecbcd", 
   "zone_id": "0e5156cb38b80c8c94e5391057878b1d", 
-  "route": "www.lagoyalva.com/*",   
+ "route": "lagoyalva.com/*",    
   "workers_dev": false,
   "assets": {
     "binding": "ASSETS",
