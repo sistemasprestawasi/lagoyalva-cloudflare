@@ -74,7 +74,7 @@ export function Navbar() {
             {/* Logo */}
             <Link href="/" className="flex items-center gap-1.5 sm:gap-2">
               <Image
-                src="https://res.cloudinary.com/dohuz9aym/image/upload/v1757026902/LOGO_WEB_50_50_sfxtfb.png"
+                src="/img/logo.png"
                 alt="Logo"
                 width={45}
                 height={45}
@@ -104,7 +104,7 @@ export function Navbar() {
                     { href: "/services/industrial", label: "Inversiones" },
                   ]}
                   pathname={pathname}
-                  imageSrc="https://res.cloudinary.com/dohuz9aym/image/upload/v1757546263/xMae-Gestion-Desarrollo-Inmobiliario-modulo-04.jpg.pagespeed.ic.9DURvJbHz6_sfensy.webp"
+                  imageSrc="/img/conpani.webp"
                 />
 
                 <NavItem

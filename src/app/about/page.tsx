@@ -17,7 +17,7 @@ export default function AboutPage() {
       <section className="relative h-[400px] w-full overflow-hidden">
         <div className="absolute inset-0 bg-black/60 z-10" />
         <Image
-          src="https://res.cloudinary.com/dohuz9aym/image/upload/v1755889011/samples/imagecon-group.jpg"
+          src="/img/conpani.webp"
           alt="Equipo de construcción Lagoyalva"
           fill
           className="object-cover"
@@ -191,7 +191,7 @@ export default function AboutPage() {
             </div>
             <div className="relative h-[500px] rounded-2xl overflow-hidden shadow-xl">
               <Image
-                src="https://res.cloudinary.com/dohuz9aym/image/upload/v1758308709/IMG_20191208_162751_fbulcr.jpg"
+                src="img/IMG_20191208_162751.jpg"
                 alt="Proyectos Lagoyalva"
                 fill
                 className="object-cover"
